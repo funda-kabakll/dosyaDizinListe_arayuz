@@ -29,3 +29,4 @@ for idx, oge in enumerate(menuOgeleri):
     ttk.Button(pencere, text=oge, command=menuFonksiyonlari[idx]).pack()
 
 pencere.mainloop()
+
